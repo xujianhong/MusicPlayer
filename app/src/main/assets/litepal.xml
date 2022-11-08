@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="MusicList"></dbname>
+
+    <version value="7"></version>
+
+    <list>
+        <mapping class="com.daomingedu.musicplayer.db.PlayingMusic" />
+        <mapping class="com.daomingedu.musicplayer.db.CategoryBean" />
+        <mapping class="com.daomingedu.musicplayer.db.LocalMusic"/>
+    </list>
+</litepal>
